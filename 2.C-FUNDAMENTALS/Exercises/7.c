@@ -1,3 +1,0 @@
-// Answer:
-// for, while
-// why not If? because i is written uppercase and keywords art sensitive case.

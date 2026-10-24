@@ -1,2 +1,0 @@
-
-//Answer: In (a), (b), and (d), the two strings are equal because `scanf` ignores spaces in these places. But in (c), they are different because the second string has a space at the end. This makes `scanf` wait for a non-space character.
