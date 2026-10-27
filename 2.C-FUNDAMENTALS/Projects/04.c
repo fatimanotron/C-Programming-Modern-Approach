@@ -1,7 +1,8 @@
 #include <stdio.h>
 
-int main(void) {
-    
+int main(void)
+{
+
     float amount = 0;
     float tax = 0.05f;
 
